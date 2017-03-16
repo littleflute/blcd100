@@ -1,11 +1,11 @@
 {
     "songData": [
         {
-            "albumName": "活出生命LIVE演唱会",
+            "albumName": "blcd100",
             "albumCoverMax": "albumCover/max/hcsmlive.jpg",
             "albumSong": [
                 {
-                    "musicName": "天黑黑 (原唱：孙燕姿)",
+                    "musicName": "01:天黑黑 (原唱：孙燕姿)",
                     "musicSinger": "张学友",
                     "musicLink": "music/thh.ogg",
                     "lyricsLink": "lyrics/thh.lrc",
