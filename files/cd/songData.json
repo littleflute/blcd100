@@ -21,17 +21,65 @@
                     "albumCoverMin": "albumCover/min/hcsmlive.png"
                 },
                 {
-                    "musicName": "03",
+                    "musicName": "03 Heat Wave.mp3",
                     "musicSinger": "03Test",
-                    "musicLink": "02 Two Lovers.mp3",
+                    "musicLink": "03 Heat Wave.mp3",
                     "lyricsLink": "lyrics/03.lrc",
                     "musicTime": "07:49",
                     "albumCoverMin": "albumCover/min/hcsmlive.png"
                 },
                 {
-                    "musicName": "爱我别走 (原唱：张震岳)",
-                    "musicSinger": "张学友",
-                    "musicLink": "music/awbz.ogg",
+                    "musicName": "04 Hello Stranger.mp3)",
+                    "musicSinger": "4",
+                    "musicLink": "04 Hello Stranger.mp3",
+                    "lyricsLink": "lyrics/awbz.lrc",
+                    "musicTime": "05:14",
+                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                },
+                {
+                    "musicName": "05 It's All Right.mp3)",
+                    "musicSinger": "5",
+                    "musicLink": "05 It's All Right.mp3",
+                    "lyricsLink": "lyrics/awbz.lrc",
+                    "musicTime": "05:14",
+                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                },
+                {
+                    "musicName": "06 Our Day Will Come.mp3)",
+                    "musicSinger": "6",
+                    "musicLink": "06 Our Day Will Come.mp3",
+                    "lyricsLink": "lyrics/awbz.lrc",
+                    "musicTime": "05:14",
+                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                },
+                {
+                    "musicName": "07 Mockingbird.mp3)",
+                    "musicSinger": "6",
+                    "musicLink": "07 Mockingbird.mp3",
+                    "lyricsLink": "lyrics/awbz.lrc",
+                    "musicTime": "05:14",
+                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                },
+                {
+                    "musicName": "08 Pride And Joy.mp3)",
+                    "musicSinger": "8",
+                    "musicLink": "08 Pride And Joy.mp3",
+                    "lyricsLink": "lyrics/awbz.lrc",
+                    "musicTime": "05:14",
+                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                },
+                {
+                    "musicName": "09 You've Really Got A Hold On Me.mp3)",
+                    "musicSinger": "9",
+                    "musicLink": "09 You've Really Got A Hold On Me.mp3",
+                    "lyricsLink": "lyrics/awbz.lrc",
+                    "musicTime": "05:14",
+                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                },
+                {
+                    "musicName": "10 Cry Baby.mp3)",
+                    "musicSinger": "10",
+                    "musicLink": "10 Cry Baby.mp3",
                     "lyricsLink": "lyrics/awbz.lrc",
                     "musicTime": "05:14",
                     "albumCoverMin": "albumCover/min/hcsmlive.png"
