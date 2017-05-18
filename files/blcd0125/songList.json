@@ -1,8 +1,8 @@
 ﻿{
     "songData": [
         {
-            "albumName": "blcd100-Billboard Top R&B Hits, 1963",
-            "albumCoverMax": "albumCover/max/hcsmlive.jpg",
+            "albumName": "The Classical Guitar Compendium (No Tablature)",
+            "albumCoverMax": "https://littleflute.github.io/b124/00151382-wl.jpg",
             "albumSong": [
                 {
                     "musicName": "01 Baby Workout.mp3",
@@ -10,7 +10,7 @@
                     "musicLink": "01 Baby Workout.mp3",
                     "lyricsLink": "lyrics/thh.lrc",
                     "musicTime": "03:47",
-                    "albumCoverMin": "albumCover/min/hcsmlive.png"
+                    "albumCoverMin": "https://littleflute.github.io/b124/00151382-wl.jpg"
                 },
                 {
                     "musicName": "02 Two Lovers.mp3",
